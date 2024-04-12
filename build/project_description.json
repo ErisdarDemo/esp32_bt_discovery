@@ -1,7 +1,7 @@
 {
     "version":            "1",
     "project_name":       "bt_discovery",
-    "project_version":    "f1a2d9e",
+    "project_version":    "3166558-dirty",
     "project_path":       "C:/Users/jreina/Documents/MyWorkspaces/Espressif_BT/bt_discovery",
     "idf_path":           "C:/Espressif/frameworks/esp-idf-v5.1.2",
     "build_dir":          "C:/Users/jreina/Documents/MyWorkspaces/Espressif_BT/bt_discovery/build",
